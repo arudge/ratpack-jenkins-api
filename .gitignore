@@ -1,0 +1,7 @@
+.gradle
+.idea
+build
+jenkins-groovy-app.iml
+jenkins-job-dashboard.iml
+jenkins-job-dashboard.ipr
+jenkins-job-dashboard.iws
